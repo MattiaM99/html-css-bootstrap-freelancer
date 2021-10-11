@@ -1,0 +1,23 @@
+.menu-top{
+  background-color: #2C3E50;
+  color: white;
+  font-size: 15px;
+  min-height: 40px;
+}
+
+.jumbotron,
+.about{
+  background-color: #1ABC9C;
+  min-height: 300px;
+  color: white;
+  padding: 15px 0;
+}
+
+.portfolio{
+  min-height: 600px;
+  padding: 50px;
+}
+
+.about div{
+  padding: 2% 15%;
+}
