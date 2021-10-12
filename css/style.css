@@ -3,10 +3,7 @@
   color: white;
   font-size: 15px;
   min-height: 40px;
-}
-
-header{
-  height: 80px;
+  padding: 40px 0;
 }
 
 header a{
@@ -62,21 +59,42 @@ header a{
   padding: 2% 15%;
 } 
 
+.download{
+  color: white !important;
+}
+
 .download i{
   margin-right: 5px;
 }
 
-.info{
-  padding: 5%;
+.footer-top{
+  color: white;
+  background-color: #39546D;
+  padding:50px 0;
 }
 
-.info div{
-  background-color: tomato;
-  height: 50px;
-  padding: 2%;
-  margin: 1%;
+.footer-bottom {
+  padding: 30px 0;
+  color: white;
+  text-align: center;
+  background-color: #2C3E50;
 }
 
 .green{
-  
+  background-color: #1ABC9C !important;
+  color: white !important;
+}
+
+.social i{
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 50%;
+}
+
+.company-name{
+  color: #1ABC9C;
+}
+
+.footer-top h3{
+  margin: 15px 0;
 }
