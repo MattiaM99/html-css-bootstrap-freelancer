@@ -18,18 +18,36 @@ header a{
   background-color: #1ABC9C;
 }
 
-.sc-inner-jumbo{
+.sc-inner{
   width: 800px;
   max-width: 80%;
   margin: 0 auto;
 }
 
-.sc-inner-jumbo img{
+.sc-inner img{
   height: 200px;
 }
 
 .jumbo-caption{
   color: white;
+}
+
+.riga{
+  margin: 15px 0;
+}
+
+.line-left{
+  height: 3px;
+  width: 20%;
+  background-color:white;
+  left: 25%;
+}
+
+.line-right{
+  height: 3px;
+  width: 20%;
+  background-color:white;
+  right: 25%;
 }
 
 .about{
@@ -55,7 +73,7 @@ header a{
   border-radius: 5px;
 }
 
-.about div{
+.about-caption div{
   padding: 2% 15%;
 } 
 
@@ -65,6 +83,10 @@ header a{
 
 .download i{
   margin-right: 5px;
+}
+
+.form{
+  margin: 5%;
 }
 
 .footer-top{
@@ -97,4 +119,8 @@ header a{
 
 .footer-top h3{
   margin: 15px 0;
+}
+
+.black{
+  background-color:black !important;
 }
