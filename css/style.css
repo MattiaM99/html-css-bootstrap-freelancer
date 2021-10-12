@@ -5,7 +5,29 @@
   min-height: 40px;
 }
 
-.jumbotron,
+header{
+  height: 80px;
+}
+
+header a{
+  text-decoration: none;
+  color: white;
+  padding: 8px;
+}
+
+.jumbotron{
+  margin-top: 80px;
+  padding: 50px 0;
+  background-color: #1ABC9C;
+}
+
+.sc-inner-jumbo{
+  background-color: cadetblue;
+  width: 800px;
+  max-width: 80%;
+  margin: 0 auto;
+}
+
 .about{
   background-color: #1ABC9C;
   min-height: 500px;
